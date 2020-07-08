@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "Blog"
+title                    : "Abel Clown's Blog" # 탭에 적히는 이름
 title_separator          : "-"
-subtitle                 : "Ver. alpha" # site tagline that appears below site title in masthead
+subtitle                 : "Under Construction" # site tagline that appears below site title in masthead
 name                     : "Keonmo Lee"
 description              : "Welcome to AbelClown's Blog."
 url                      : "https://AbelClown.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "AbelClown/AbelClown.github.io"
+teaser                   : "/assets/images/Main.jpg" # path of fallback teaser image, e.g. 
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Keonmo Lee"
+  avatar           : "/assets/images/bio_icon.jpg" #path of avatar image
+  bio              : "Under graduate <br> majoring Industrial Management in UNIST"
+  location         : "영등포구, Seoul, Korea"
+  email            : "rjsah80471@unist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
